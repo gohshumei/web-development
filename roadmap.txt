@@ -1,0 +1,108 @@
+Weeks 1-2: Learn HTML Basics
+Module: Introduction to HTML, HTML Elements, HTML Forms
+Resource: MDN Web Docs - HTML
+Activities: Create a simple HTML form prototype for user input, emphasizing the fields needed for student and tutor details.
+
+Module: Introduction to CSS, Selectors, Layout
+Resource: MDN Web Docs - CSS
+Activities: Style the HTML form you created in the previous days, focusing on creating an aesthetically pleasing and user-friendly interface.
+
+Weeks 5-6: Learn Basic JavaScript
+Module: Variables, Data Types, Functions
+Resource: MDN Web Docs - JavaScript Basics
+Activities: Start adding basic interactivity to your form using JavaScript. Validate user inputs and display feedback.
+
+Weeks 7-8: Learn Git/GitHub Basics
+Module: Git Basics, GitHub Repositories
+Resource: GitHub Learning Lab, Atlassian Git Tutorial
+Activities: Initiate a Git repository for your project. Commit your HTML, CSS, and JavaScript files. Learn how to use branches for feature development.
+
+Weeks 9-10: Introduction to React
+Module: Create React App, Components, State, Props
+Resource: React - Official Documentation
+Activities: Refactor your form to a React component. Manage state for dynamic updates. Begin thinking about the structure for tutor and student components.
+
+Weeks 11-12: Building a Simple React Application
+Module: Routing, Forms, State Management
+Resource: Traversy Media - React JS Crash Course
+Activities: Implement basic routing for different views (e.g., tutor and student dashboards). Integrate forms with React state.
+
+Weeks 13-14: Connecting Frontend to Backend (Node.js and Express)
+Module: Setting Up Express, Routes, Handling HTTP Requests
+Resource: Net Ninja - Node.js Crash Course
+Activities: Set up a basic Node.js and Express server. Define routes to handle tutor and student data. Implement API calls from your React app to the server.
+
+Weeks 15-16: Introduction to Authentication (Passport.js)
+Module: Passport.js Setup, Local Authentication
+Resource: Passport.js - Traversy Media
+Activities: Start implementing a basic authentication system for tutors. Secure routes for adding student details.
+
+Weeks 17-18: Introduction to MongoDB
+Module: MongoDB Basics, Data Modeling
+Resource: MongoDB University
+Activities: Set up a MongoDB database. Define schemas for tutor and student data. Connect your Express server to MongoDB.
+
+Weeks 19-20: Connecting Backend to MongoDB
+Module: Setting Up MongoDB with Node.js
+Resource: Net Ninja - MongoDB Tutorial
+Activities: Implement the backend logic for storing and retrieving tutor and student data from MongoDB.
+
+Weeks 21-22: Implementing Calendar View (React)
+Module: Integrating FullCalendar with React
+Resource: FullCalendar - React Integration
+Activities: Integrate a calendar library into your React app. Start displaying and managing tutor schedules.
+
+Weeks 23-24: Adding Leave Request Functionality
+Module: Form Handling, Backend Integration
+Resource: Traversy Media - React Form Tutorial
+Activities: Add a form for tutors to request time off. Implement backend functionality to handle and store leave requests.
+
+Weeks 25-26: Deployment and Hosting (Frontend)
+Module: Deploying React App to Netlify
+Resource: Netlify - Deploy React App
+Activities: Deploy your React frontend to a hosting service like Netlify.
+
+Weeks 27-28: Deployment and Hosting (Backend)
+Module: Deploying Node.js App to Heroku
+Resource: Heroku - Deploying Node.js Apps
+Activities: Deploy your Node.js backend to a platform like Heroku.
+
+Weeks 29-30: Administrator Functionality (React)
+Module: Admin Dashboard Design, Managing Data
+Resource: React Admin - Data Providers
+Activities: Build an admin dashboard using React. Implement functionality to view and manage tutor and student details.
+
+Weeks 31-32: Email Notifications (Nodemailer)
+Module: Setting Up Nodemailer, Sending Emails
+Resource: Nodemailer - Official Documentation
+Activities: Integrate Nodemailer into your backend. Send email notifications to tutors when their time off is approved.
+
+Weeks 33-34: Final Refinement and Testing
+Module: Debugging, Testing, User Feedback
+Resource: Cypress - End-to-End Testing
+Activities: Conduct end-to-end testing using Cypress. Gather user feedback and make final refinements to your application.
+
+Weeks 35-40: Continuous Learning and Advanced Concepts
+Module: Advanced React, State Management (Redux), Advanced Node.js Concepts
+Resource: Advanced React - Kent C. Dodds, [Advanced Node.js - Academind]
+
+MDN Web Docs - HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
+MDN Web Docs - CSS: https://developer.mozilla.org/en-US/docs/Web/CSS
+MDN Web Docs - JavaScript Basics: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+GitHub Learning Lab: https://lab.github.com/
+Atlassian Git Tutorial: https://www.atlassian.com/git/tutorials
+React - Official Documentation: https://reactjs.org/docs/getting-started.html
+Traversy Media - React JS Crash Course: https://www.youtube.com/watch?v=sBws8MSXN7A
+Net Ninja - Node.js Crash Course: https://www.youtube.com/watch?v=8b6lmhWm6Yw
+Passport.js - Traversy Media: https://www.youtube.com/watch?v=6FOq4cUdH8k
+MongoDB University: https://university.mongodb.com/
+Net Ninja - MongoDB Tutorial: https://netninja.dev/p/mongodb-crash-course
+FullCalendar - React Integration: https://fullcalendar.io/docs/react
+Traversy Media - React Form Tutorial: https://www.youtube.com/watch?v=7Vo_VCcFgDk
+Netlify - Deploy React App: https://www.netlify.com/blog/2016/07/22/deploy-react-apps-in-less-than-30-seconds/
+Heroku - Deploying Node.js Apps: https://devcenter.heroku.com/articles/deploying-nodejs
+React Admin - Data Providers: https://marmelab.com/react-admin/DataProviders.html
+Nodemailer - Official Documentation: https://nodemailer.com/about/
+Cypress - End-to-End Testing: https://www.cypress.io/
+Advanced React - Kent C. Dodds: https://epicreact.dev/
+Advanced Node.js - Academind: https://academind.com/learn/node-js-crash-course/
